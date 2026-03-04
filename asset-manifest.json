@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/notabook/static/css/main.8f30e82d.css",
-    "main.js": "/notabook/static/js/main.0f4af262.js",
+    "main.js": "/notabook/static/js/main.56b87801.js",
     "static/media/background.png": "/notabook/static/media/background.41a8778b9a128632135c.png",
     "static/media/flowersforstate1.webp": "/notabook/static/media/flowersforstate1.e01e63104e056a2d80e0.webp",
     "static/media/flowersforstate2.webp": "/notabook/static/media/flowersforstate2.48a652d442490537c3ea.webp",
@@ -56,10 +56,10 @@
     "static/media/menuclose.webp": "/notabook/static/media/menuclose.a5d51236fb1ad788c5ef.webp",
     "index.html": "/notabook/index.html",
     "main.8f30e82d.css.map": "/notabook/static/css/main.8f30e82d.css.map",
-    "main.0f4af262.js.map": "/notabook/static/js/main.0f4af262.js.map"
+    "main.56b87801.js.map": "/notabook/static/js/main.56b87801.js.map"
   },
   "entrypoints": [
     "static/css/main.8f30e82d.css",
-    "static/js/main.0f4af262.js"
+    "static/js/main.56b87801.js"
   ]
 }
